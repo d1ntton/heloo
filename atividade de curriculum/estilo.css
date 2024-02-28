@@ -1,0 +1,85 @@
+div{
+    
+    display: flex;
+    justify-content: center;
+    background-color: #333
+}
+img{
+    background-color: #333;
+    color: #fff;    
+    max-width: 200px;
+    margin-top: 30px;
+   margin-left: -20px;
+   padding: -10px;
+}
+
+   
+    
+
+
+.nome{
+    
+   margin-top: -20px;
+   margin-left: 30px;
+    color: #fff;
+    margin-right: 20px;
+    text-align: center;
+}
+.nome1{
+    margin-top: -40px;
+   margin-left: 40px;
+    padding: -10px;
+    color: #fff;
+    text-align: center;
+}
+.numero{
+    padding: -10px;
+    background-attachment: fixed;
+    text-align: center;
+   margin-right: 20px;
+
+}
+
+
+
+
+h1{
+    background-color: #333;
+    color: #fff;
+    padding: 26px;
+    
+}
+nav{
+    background-color: #eee;
+    padding: 13px;
+}
+
+section{
+  
+    padding: 20px;
+    
+}
+#section3{
+    margin-top: -70px;
+   margin-left: 40px;
+    background: none;
+    text-align: center;
+}
+#section4{
+    background-attachment: fixed;
+    background: #333;
+}
+
+
+article{
+    border: 3px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
